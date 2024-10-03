@@ -1,11 +1,11 @@
 # Olá, sou Nicolas 👋
 
-👨‍💻 Desenvolvedor Front-End focado em **React**, **TypeScript**, **Next.js** e apaixonado por criar interfaces eficientes. Também tenho experiência no desenvolvimento back-end com **Node.js** e **Express**.
+👨‍💻 Desenvolvedor Front-End com domínio em **Angular**, **React**, **TypeScript**, **Next.js** e apaixonado por criar interfaces eficientes. Também tenho experiência no desenvolvimento back-end com **Node.js** e **Express**.
 
 ### 🚀 Minhas Tecnologias:
 
 - **Linguagens**: ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
-- **Front-End**: ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+- **Front-End**: ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
 - **Estilização**: 
   - ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
   - ![Styled Components](https://img.shields.io/badge/Styled--Components-db7092?logo=styled-components&logoColor=white)
