@@ -16,9 +16,9 @@
 
 ### 🌟 Projetos em Destaque:
 
-- [**PokeAPI**](https://github.com/Nicolasgonpereira/pokeapi): Interface da PokeAPI desenvolvido em NextJS.
+- [**KanFlow**](https://github.com/Nicolasgonpereira/kanflow): Aplicativo de gerenciamento de tarefas estilo Kanban desenvolvido em Angular.
 - [**GSViewer**](https://gsviewer.vercel.app/): Interface para exibição de forma ordenada e organizada dos chamados de suporte recibos pela empresa. *Repositório não disponível*.
-- [**RoadToCode**](https://github.com/Nicolasgonpereira/roadtocode): Portfólio próprio desenvolvido em React e API para servir o front-end em Express.
+- [**ShoeStyle**](shoestyle-mu.vercel.app): E-commerce de sapatos full-stack criado em NextJS, utilizando SSR e SSG.
 
 ### 📊 Estatísticas do GitHub:
 ![Suas estatísticas](https://github-readme-stats.vercel.app/api?username=Nicolasgonpereira&show_icons=true&theme=radical)
