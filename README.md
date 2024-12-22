@@ -18,7 +18,7 @@
 
 - [**KanFlow**](https://github.com/Nicolasgonpereira/kanflow): Aplicativo de gerenciamento de tarefas estilo Kanban desenvolvido em Angular.
 - [**GSViewer**](https://gsviewer.vercel.app/): Interface para exibição de forma ordenada e organizada dos chamados de suporte recibos pela empresa. *Repositório não disponível*.
-- [**ShoeStyle**](shoestyle-mu.vercel.app): E-commerce de sapatos full-stack criado em NextJS, utilizando SSR e SSG.
+- [**ShoeStyle**](https://shoestyle-mu.vercel.app): E-commerce de sapatos full-stack criado em NextJS, utilizando SSR e SSG.
 
 ### 📊 Estatísticas do GitHub:
 ![Suas estatísticas](https://github-readme-stats.vercel.app/api?username=Nicolasgonpereira&show_icons=true&theme=radical)
