@@ -17,7 +17,7 @@
 ### 🌟 Projetos em Destaque:
 
 - [**KanFlow**](https://github.com/Nicolasgonpereira/kanflow): Aplicativo de gerenciamento de tarefas estilo Kanban desenvolvido em Angular.
-- [**GSViewer**](https://gsviewer.vercel.app/): Interface para exibição de forma ordenada e organizada dos chamados de suporte recibos pela empresa. *Repositório não disponível*.
+- [**RoyalWear**](https://royalwear.vercel.app): E-commerce de vestuário full-stack criado em NextJS. Implementei sistema de cadastro de usuário e sistema de login usando verificação do token JWT armazenado nos Cookies. Utilizei ContextAPI para gerenciamento do estado global da aplicação, realizando a gestão da sessão do usuário e do estado do carrinho.
 - [**ShoeStyle**](https://shoestyle-mu.vercel.app): E-commerce de sapatos full-stack criado em NextJS, utilizando SSR e SSG.
 
 ### 📊 Estatísticas do GitHub:
@@ -29,4 +29,3 @@
 
 - [LinkedIn](https://www.linkedin.com/in/nicolasgoncalvespereira/)
 - [Email](mailto:nicolasgp.ec@gmail.com)
-- [Portfolio](https://roadtocode-ten.vercel.app/)
